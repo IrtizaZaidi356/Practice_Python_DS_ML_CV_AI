@@ -6,6 +6,9 @@
 #### **Introduction**
 The purpose of this documentation is to provide an overview and explanation of various string manipulation methods in Python. The code examples are implemented in a Jupyter Notebook titled "01_String_Manipulation.ipynb."
 
+**Source Code Link: https://github.com/IrtizaZaidi356/Practice_Python_DS_ML_CV_AI/blob/main/Basic_Python/01_String_Manipulation.ipynb
+**Github Link:** https://github.com/IrtizaZaidi356/Practice_Python_DS_ML_CV_AI
+
 #### **Table of Contents**
 
  1) Length (len())
