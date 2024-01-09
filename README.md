@@ -2,7 +2,7 @@
 
 ## **Basic Python:**
 
-### **String Manipulation Methods Documentation**
+### **01) String Manipulation Methods Documentation**
 #### **Introduction**
 The purpose of this documentation is to provide an overview and explanation of various string manipulation methods in Python. The code examples are implemented in a Jupyter Notebook titled "01_String_Manipulation.ipynb."
 
@@ -66,3 +66,73 @@ The purpose of this documentation is to provide an overview and explanation of v
  52) isdecimal() with superscript numbers
  53) isspace() with a mix of whitespaces
  54) join() with integers
+
+---
+
+# **02) Python program using `list`, `tuple`, `set`, and `dictionary`:**
+
+## **Program Title: `Python Data Structures:`**
+
+#### **Introduction:**
+   Brief overview of the program's purpose and usage.
+
+#### **1. `List:`**
+   i. Description of the list data structure.
+
+   ii. Explanation of the list operations in the program.
+   
+   iii. List creation (**`fruits`**).
+   
+   iv. Appending a new element (**`"cherry"`**) to the list.
+
+#### **2. `Tuple:`**
+   i. Description of the tuple data structure.
+   
+   ii. Explanation of the tuple operations in the program.
+   
+   iii. Tuple creation (**`colors`**).
+   
+   iv. Concatenating a new element (**`"purple"`**) to the tuple.
+
+#### **3. `Set:`**
+   i. Description of the set data structure.
+   
+   ii. Explanation of the set operations in the program.
+   
+   iii. Set creation (**`num`**).
+   
+   iv. Adding a new element (**`6`**) to the set.
+
+#### **4 `Dictionary:`**
+   i. Description of the dictionary data structure.
+   
+   ii. Explanation of the dictionary operations in the program.
+   
+   iii. Dictionary creation (**`student_info`**).
+   
+   iv. Adding a new key-value pair (**`"course": "Pre - Engineering"`**) to the dictionary.
+   
+
+---
+
+### **Program Explanation:**
+
+#### **1. `List` Example:**
+   i) **`fruits`** is a list containing strings representing different fruits.
+   
+   ii) **`append`** method is used to add a new fruit **`("Cherry")`** to the list.
+
+#### **2. `Tuple` Example:**
+   i) **`colors`** is a tuple containing strings representing different colors.
+   
+   ii) Concatenation is used to create a new tuple **`(new_colors)`** by adding a new color **`("purple")`**.
+
+#### **3. `Set` Example:**
+   i) **`num`** is a set containing integers.
+   
+   ii) The add method is used to add a new number **`(6)`** to the set.
+
+#### **4. `Dictionary` Example:**
+   i) **`student_info`** is a dictionary representing information about a student.
+   
+   ii) A new key-value pair **`("course": "Pre - Engineering")`** is added to the dictionary
