@@ -164,7 +164,7 @@ The purpose of this documentation is to provide an overview and explanation of v
 ### Task No# 01: A Grade Calculator for Student Performance Evaluation:
 
 #### **Introduction:**
- - In this project, we've developed a **`Grade Calculator` program** in Python aimed at efficiently assessing the academic performance of students. The program utilizes a list of student names and their corresponding average scores, employing a series of if-elif-else conditions to determine the appropriate letter grades (A, B, C, D, or F). This tool is designed to assist educators in simplifying the grading process and providing clear insights into students' achievements.
+ - In this project, I developed a **`Grade Calculator` program** in Python aimed at efficiently assessing the academic performance of students. The program utilizes a list of student names and their corresponding average scores, employing a series of if-elif-else conditions to determine the appropriate letter grades (A, B, C, D, or F). This tool is designed to assist educators in simplifying the grading process and providing clear insights into students' achievements.
 
 #### **Code Implementation:**
 
