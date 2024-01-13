@@ -138,3 +138,48 @@ The purpose of this documentation is to provide an overview and explanation of v
    i) **`student_info`** is a dictionary representing information about a student.
    
    ii) A new key-value pair **`("course": "Pre - Engineering")`** is added to the dictionary
+
+---
+
+## Tasks Using List
+## **`Assignments using Lists in Python:`**
+
+### **Assignment 1: `Grade Calculator:`**
+
+#### **`Objective:`**
+  -  Create a `program` that `calculates the grades` for a `list of student` based on their `average scores:`
+
+#### **`Task:`**
+  1. Create a `list` of `student names`.
+
+  2. Create a `list` of corresponding `average scores` for each `student`.
+
+  3. Use a `for loop` to iterate through the `list`.
+
+  4. Apply `if-elif-else` conditions to determine the `Grades (e.g: A,B,C,D, or F)` based on the average score.
+
+  5. `Display` the `student names` and their corresponding `Grades`.
+
+
+### Task No# 01: A Grade Calculator for Student Performance Evaluation:
+
+#### **Introduction:**
+ - In this project, we've developed a **`Grade Calculator` program** in Python aimed at efficiently assessing the academic performance of students. The program utilizes a list of student names and their corresponding average scores, employing a series of if-elif-else conditions to determine the appropriate letter grades (A, B, C, D, or F). This tool is designed to assist educators in simplifying the grading process and providing clear insights into students' achievements.
+
+#### **Code Implementation:**
+
+![image](https://github.com/IrtizaZaidi356/Practice_Python_DS_ML_CV_AI/assets/145368548/9b37aa7d-0929-424e-8928-35728a46d152)
+
+#### **Output:**
+
+![image](https://github.com/IrtizaZaidi356/Practice_Python_DS_ML_CV_AI/assets/145368548/b489948f-a114-492c-a947-0d687dbed35b)
+
+#### **Explanation:**
+ 1. **Lists Initialization:** Two lists are created—one containing student names and the other storing their respective average scores.
+ 2. **For Loop Iteration:** A for loop is employed to iterate through each student in the lists.
+ 3. **Grade Determination:** Using if-elif-else conditions, the program assigns letter grades based on the average scores.
+ 4. **Results Display:** The program prints each student's name along with their calculated grade.
+
+#### **Conclusion:**
+ - This Grade Calculator program offers a clear and concise solution for educators to assess and communicate student performance. It simplifies the grading process by automating the assignment of grades based on predefined criteria, allowing educators to focus more on understanding and addressing individual students' needs. This tool is adaptable and can be easily customized to suit the grading scale and criteria specific to different educational contexts.
+
