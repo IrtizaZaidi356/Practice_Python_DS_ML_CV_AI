@@ -142,6 +142,7 @@ The purpose of this documentation is to provide an overview and explanation of v
 ---
 
 ## Tasks Using List
+
 ## **`Assignments using Lists in Python:`**
 
 ### **Assignment 1: `Grade Calculator:`**
@@ -182,4 +183,50 @@ The purpose of this documentation is to provide an overview and explanation of v
 
 #### **Conclusion:**
  - This Grade Calculator program offers a clear and concise solution for educators to assess and communicate student performance. It simplifies the grading process by automating the assignment of grades based on predefined criteria, allowing educators to focus more on understanding and addressing individual students' needs. This tool is adaptable and can be easily customized to suit the grading scale and criteria specific to different educational contexts.
+
+---
+
+## **Assignment 2: `Shopping Cart`**
+
+#### **`Objective`**: 
+ - Develop a simple `shopping cart` program that `calculates` the `total cost` of `items` in the `cart`.
+
+#### **`Tasks:`**
+  1. Create a `list of items` in the `shopping cart.`
+  
+  2. Create a `list` of corresponding `prices` for `each item.`
+  
+  3. Use a for `loop` to iterate through the `items` and `prices.`
+  
+  4. Allow the `user to input` the `quantity` of each `item.`
+  
+  5. `Calculate` and `display` the `total cost` of the `items` in the `shopping cart.`
+
+#### **`Program Overview:`**
+
+ ![image](https://github.com/IrtizaZaidi356/Practice_Python_DS_ML_CV_AI/assets/145368548/d30402bd-2c8c-4e5b-9bb3-5358728e021b)
+
+#### **`Output:`**
+
+ ![image](https://github.com/IrtizaZaidi356/Practice_Python_DS_ML_CV_AI/assets/145368548/39faa2c7-a89a-456f-8de6-c9fb24110753)
+
+#### **`Explanation:`**
+
+ **1) Initialization:** 
+    - Two lists are created – items representing the items in the shopping cart, and prices representing the corresponding prices.
+
+ **2) User Input:**
+    - A dictionary cart is initialized to store the quantity of each item.
+    - A for loop iterates through each item, prompting the user to input the quantity for each item.
+
+ **3) Calculation:**
+    - The user inputted quantity for each item is stored in the cart dictionary.
+    - Another for loop calculates and displays the total cost of each item based on the inputted quantity and the predefined prices.
+
+ **4) Output:**
+    - The contents of the shopping cart are displayed item-wise, along with their quantities and total costs.
+    - The total cost of all items in the shopping cart is presented.
+
+#### **Conclusion:**
+   - This Python program provides a simple yet effective solution to create and manage a shopping cart, allowing users to input quantities and calculating the total cost of the items. The use of lists, dictionaries, and loops enhances the program's flexibility and readability.
 
